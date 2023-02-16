@@ -1,0 +1,12 @@
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.csproj.AssemblyReference.cache
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.csproj.SuggestedBindingRedirects.cache
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.Form1.resources
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.Properties.Resources.resources
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.csproj.GenerateResource.cache
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.csproj.CoreCompileInputs.cache
+D:\laptrinh.net\_9C2\_9C2\bin\Debug\_9C2.exe.config
+D:\laptrinh.net\_9C2\_9C2\bin\Debug\_9C2.exe
+D:\laptrinh.net\_9C2\_9C2\bin\Debug\_9C2.pdb
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.exe
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.pdb
+D:\laptrinh.net\_9C2\_9C2\obj\Debug\_9C2.Stored.resources
